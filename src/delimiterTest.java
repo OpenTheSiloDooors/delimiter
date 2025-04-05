@@ -1,7 +1,7 @@
 // Coded by Jacob Aaron Espinoza @ jacob.espinoza@malad.us
 // For CTE Software Development 2
 // Instructor: Mr. Gross
-// This program
+// This program gets five variables of a game five times and displays the average score
 
 import java.io.*;
 import java.util.Scanner;
